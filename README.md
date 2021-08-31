@@ -20,6 +20,7 @@ I am also soon to graduate from **Strive School's** intense 6-month full-stack s
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" />
