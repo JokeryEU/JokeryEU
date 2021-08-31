@@ -2,7 +2,7 @@
 
 ---
 
-I'm a full stack developer, mainly using MERN stack. My main focus is on Back-End developement, designing scalable application, and delivering an amazing production ready product.
+I'm a Full Stack Developer, mainly using MERN stack. My main focus is on Back-End developement, designing scalable application, and delivering an amazing production ready product.
 
 My exposure using various technologies are listed in the **toolbox** section below. Go easy on me I am still a junior developer 🚀 getting ready for launch!
 
