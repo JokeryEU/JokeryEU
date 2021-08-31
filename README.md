@@ -9,7 +9,7 @@ My exposure using various technologies are listed in the **toolbox** section bel
 I am also soon to graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core focus of the curriculum was to equip us with tooling and that the productive **MERN Stack** provides.
 
 <p>
-  <b>#beginnermindset #alwaysbestriving</b>
+  <b>#alwaysbestriving</b>
 </p>
 
 ---
