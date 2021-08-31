@@ -33,6 +33,15 @@ I am also soon to graduate from **Strive School's** intense 6-month full-stack s
 
 ---
 
+<h2>Feel free to connect with me 😀!</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mihai-ivanov">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokeryEU&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokeryEU&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
