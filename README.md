@@ -16,9 +16,19 @@ I am also soon to graduate from **Strive School's** intense 6-month full-stack s
 
 🧰 **Toolbox**
 <br>
-
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" /><img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" /><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" />
-
+<div>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" />
+<img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" />
+</div>
 ---
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokeryEU&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
