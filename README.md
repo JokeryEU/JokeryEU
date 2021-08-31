@@ -29,6 +29,7 @@ I am also soon to graduate from **Strive School's** intense 6-month full-stack s
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" />
 </div>
+
 ---
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokeryEU&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
