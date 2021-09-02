@@ -6,7 +6,7 @@ I'm a Full Stack Developer, mainly using MERN stack. My main focus is on Back-En
 
 I learned to use various technologies that are listed in the **toolbox** section below. Go easy on me I am still a junior developer, getting ready for launch !🚀
 
-I am also soon to graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core focus of the curriculum was to equip us with tooling and that the productive **MERN Stack** provides.
+I am also a graduate from **Strive School's** intense 6-month full-stack software engineering program backed by **YCombinator**. The core focus of the curriculum was to equip us with tooling and that the productive **MERN Stack** provides.
 
 <p>
   <b>#alwaysbestriving</b>
