@@ -43,9 +43,11 @@ Currently, I am looking for Full Stack, Back-End or Front-End developer position
   </a>
 </div>
 
+---
+
 ### CV
 
-- :paperclip: [My Resume/CV](https://github.com/JokeryEU/JokeryEU/blob/main/CV.pdf)
+- :paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/CV.pdf)
 
 ---
 
