@@ -18,6 +18,7 @@ Currently, I am looking for Full Stack, Back-End or Front-End developer position
 
 🧰 **Toolbox**
 <br>
+
 <div>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" />
@@ -42,9 +43,13 @@ Currently, I am looking for Full Stack, Back-End or Front-End developer position
   </a>
 </div>
 
+### CV
+
+- :paperclip: [My Resume/CV](https://github.com/JokeryEU/JokeryEU/blob/main/CV.pdf)
+
 ---
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokeryEU&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokeryEU&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokeryEU&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
