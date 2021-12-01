@@ -30,6 +30,7 @@ Currently, I am looking for Full Stack, Back-End or Front-End developer position
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" />
 <img width="53" height="53" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" />
+<img width="53" height="53" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose logo" /> 
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" />
