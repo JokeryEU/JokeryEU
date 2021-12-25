@@ -50,7 +50,7 @@ Currently, I am looking for Full Stack, Back-End or Front-End developer position
 
 ### CV
 
-- :paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai&nbsp;Ivanov&nbsp;-CV.pdf)
+- :paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf)
 
 ---
 
