@@ -4,9 +4,9 @@
 
 I'm a Full Stack Developer, mainly using MERN stack. My main focus is on Back-End development, designing scalable application, and delivering an amazing production ready product.
 
-<p>
+<!-- <p>
   <b>#alwaysbestriving</b>
-</p>
+</p> -->
 
 ---
 
