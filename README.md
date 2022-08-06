@@ -19,8 +19,8 @@ I'm a Full Stack Developer, mainly using MERN stack. My main focus is on Back-En
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" />
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" />
