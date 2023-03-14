@@ -19,6 +19,7 @@ I'm a Full Stack Developer, using MERN and MEAN stack. My main focus is on Back-
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next.js logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" />
