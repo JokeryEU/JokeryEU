@@ -46,8 +46,8 @@ I'm a Full Stack Developer, using MERN and MEAN stack. My main focus is on Back-
 ---
 
 ### CV
-
-- :paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf)
+- Being Updated
+- <!--:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf-->
 
 ---
 
