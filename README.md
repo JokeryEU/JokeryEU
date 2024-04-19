@@ -30,8 +30,7 @@ I'm a Full Stack Developer, using MERN and MEAN stack. My main focus is on Back-
 <img width="53" height="53" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose logo" /> 
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize logo" />
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui logo" />
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch logo" />
 </div>
 
 ---
