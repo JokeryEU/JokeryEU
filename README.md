@@ -2,11 +2,7 @@
 
 ---
 
-I'm a Full Stack Developer, using MERN and MEAN stack. My main focus is on Back-End development, designing scalable application, and delivering an amazing production ready product.
-
-<!-- <p>
-  <b>#alwaysbestriving</b>
-</p> -->
+I am a full stack engineer focusing on TypeScript, AWS Cloud, a little Java creating microservices with Quarkus and the ever-evolving front-end space React 19+, React Native, NextJS and Angular,
 
 ---
 
@@ -46,7 +42,7 @@ I'm a Full Stack Developer, using MERN and MEAN stack. My main focus is on Back-
 
 ### CV
 - Being Updated
-- <!--:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf-->
+ <!-- -:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf-->
 
 ---
 
