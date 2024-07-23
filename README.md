@@ -41,8 +41,8 @@ I am a full stack engineer focusing on TypeScript, AWS Cloud, a little Java crea
 ---
 
 ### CV
-- Being Updated
- <!-- -:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf-->
+
+ -:paperclip: [My CV](https://github.com/JokeryEU/JokeryEU/blob/main/Mihai_Ivanov_CV.pdf
 
 ---
 
