@@ -2,7 +2,7 @@
 
 ---
 
-I am a full stack engineer focusing on TypeScript, AWS Cloud, a little Java creating microservices with Quarkus and the ever-evolving front-end space React 19+, React Native, NextJS and Angular.
+I am a full stack engineer focusing on TypeScript, AWS Cloud, in the ever-evolving front-end space React 19+, React Native, NextJS and Angular.
 
 ---
 
