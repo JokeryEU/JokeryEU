@@ -1,8 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I am Mihai Ivanov
+### Hi there, I’m Mihai 👋
 
 ---
 
-I am a full stack engineer focusing on TypeScript, AWS Cloud, in the ever-evolving front-end space React 19+, React Native, NextJS and Angular.
+I’m a full-stack engineer specializing in **TypeScript**, **AWS**, and modern front-end frameworks. I build scalable web & mobile apps using:
+
+- **React 19+**, **React Native**, **Next.js**, **Angular**
+- **Node.js**, **Serverless**, **AWS** (Lambda, API Gateway, DynamoDB, S3)
+- **CI/CD**, **Modern Testing Practices**
 
 ---
 
